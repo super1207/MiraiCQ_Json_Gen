@@ -1,0 +1,2 @@
+# MiraiCQ_Json_Gen
+生成MiraiCQ插件所需的Json文件
